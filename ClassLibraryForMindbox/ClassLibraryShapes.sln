@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryShapes", "ClassLibraryForMindbox\ClassLibraryShapes.csproj", "{B216BEF4-3368-464D-931B-EBD5C47AC424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryShapes.Tests", "ClassLibraryShapesTests\ClassLibraryShapes.Tests.csproj", "{1D52A9EE-5512-4C06-AF9A-01D0BE444690}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACC62231-43CE-4D24-9379-FA74C250EBE5}"
+	ProjectSection(SolutionItems) = preProject
+		task.sql = task.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B216BEF4-3368-464D-931B-EBD5C47AC424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B216BEF4-3368-464D-931B-EBD5C47AC424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B216BEF4-3368-464D-931B-EBD5C47AC424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B216BEF4-3368-464D-931B-EBD5C47AC424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D52A9EE-5512-4C06-AF9A-01D0BE444690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D52A9EE-5512-4C06-AF9A-01D0BE444690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D52A9EE-5512-4C06-AF9A-01D0BE444690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D52A9EE-5512-4C06-AF9A-01D0BE444690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {508F4187-A348-499E-A48E-27DA548CD373}
+	EndGlobalSection
+EndGlobal

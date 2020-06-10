@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aeiE5sWkPhVucZhL6IJSjHtaFUUNucacyMWj7Euh5nNnaycbbd053tQFe/pQVGC6hjxwCboCAd1ZiN5AND7hhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kira\\source\\repos\\ClassLibraryForMindbox\\ClassLibraryForMindbox\\ClassLibraryShapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

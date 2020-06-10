@@ -1,0 +1,9 @@
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\bin\Debug\netstandard2.0\ClassLibraryShapes.deps.json
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\bin\Debug\netstandard2.0\ClassLibraryShapes.dll
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\bin\Debug\netstandard2.0\ClassLibraryShapes.pdb
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\obj\Debug\netstandard2.0\ClassLibraryShapes.csprojAssemblyReference.cache
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\obj\Debug\netstandard2.0\ClassLibraryShapes.csproj.CoreCompileInputs.cache
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\obj\Debug\netstandard2.0\ClassLibraryShapes.AssemblyInfoInputs.cache
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\obj\Debug\netstandard2.0\ClassLibraryShapes.AssemblyInfo.cs
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\obj\Debug\netstandard2.0\ClassLibraryShapes.dll
+C:\Users\kira\source\repos\ClassLibraryForMindbox\ClassLibraryForMindbox\obj\Debug\netstandard2.0\ClassLibraryShapes.pdb
